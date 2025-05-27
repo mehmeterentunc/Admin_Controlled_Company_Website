@@ -3,3 +3,7 @@
 - Technologies: Technologies: ASP.NET MVC 4.7.2, ADO.NET, SQL SERVER, HTML5, CSS3, JQUERY, AJAX
 
 - As it is freelance work, I cannot publish the code of the project and the content of the system.
+
+
+https://github.com/user-attachments/assets/b0457cec-f805-4d28-a1e0-58553a816826
+
